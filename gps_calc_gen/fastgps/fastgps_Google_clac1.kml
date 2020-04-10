@@ -1,0 +1,1452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Folder>
+<Style id="fireIcon">
+<IconStyle>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/pal3/icon38.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Placemark>
+<name>Rx - GPS sec 490176</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates> 0.000000000, 0.000000000,      0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490176</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates> 0.000000000, 0.000000000,      0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490176</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates> 0.000000000, 0.000000000,      0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490176</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates> 0.000000000, 0.000000000,      0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490176</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates> 0.000000000, 0.000000000,      0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490177</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates> 0.000000000, 0.000000000,      0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490177</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates> 0.000000000, 0.000000000,      0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490177</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates> 0.000000000, 0.000000000,      0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490177</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates> 0.000000000, 0.000000000,      0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490177</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates> 0.000000000, 0.000000000,      0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490178</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates> 0.000000000, 0.000000000,      0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490178</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates> 0.000000000, 0.000000000,      0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490178</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates> 0.000000000, 0.000000000,      0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490178</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates> 0.000000000, 0.000000000,      0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490178</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates> 0.000000000, 0.000000000,      0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490179</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates> 0.000000000, 0.000000000,      0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490179</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates> 0.000000000, 0.000000000,      0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490179</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates> 0.000000000, 0.000000000,      0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490179</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates> 0.000000000, 0.000000000,      0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490179</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates> 0.000000000, 0.000000000,      0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490180</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates> 0.000000000, 0.000000000,      0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490180</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates> 0.000000000, 0.000000000,      0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490180</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates> 0.000000000, 0.000000000,      0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490180</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates> 0.000000000, 0.000000000,      0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490180</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates> 0.000000000, 0.000000000,      0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490181</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates> 0.000000000, 0.000000000,      0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490181</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates> 0.000000000, 0.000000000,      0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490181</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates> 0.000000000, 0.000000000,      0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490181</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates> 0.000000000, 0.000000000,      0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490181</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates> 0.000000000, 0.000000000,      0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490182</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates> 0.000000000, 0.000000000,      0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490182</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates> 0.000000000, 0.000000000,      0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490182</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates> 0.000000000, 0.000000000,      0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490182</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates> 0.000000000, 0.000000000,      0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490182</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates> 0.000000000, 0.000000000,      0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490183</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates> 0.000000000, 0.000000000,      0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490183</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates> 0.000000000, 0.000000000,      0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490183</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates> 0.000000000, 0.000000000,      0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490183</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates> 0.000000000, 0.000000000,      0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490183</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates> 0.000000000, 0.000000000,      0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490184</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates> 0.000000000, 0.000000000,      0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490184</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates> 0.000000000, 0.000000000,      0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490184</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates> 0.000000000, 0.000000000,      0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490184</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates> 0.000000000, 0.000000000,      0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490184</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates> 0.000000000, 0.000000000,      0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490185</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates> 0.000000000, 0.000000000,      0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490185</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates> 0.000000000, 0.000000000,      0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490185</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates> 0.000000000, 0.000000000,      0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490185</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates> 0.000000000, 0.000000000,      0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490185</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates> 0.000000000, 0.000000000,      0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490186</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates> 0.000000000, 0.000000000,      0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490186</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates> 0.000000000, 0.000000000,      0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490186</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates> 0.000000000, 0.000000000,      0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490186</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates> 0.000000000, 0.000000000,      0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490186</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates> 0.000000000, 0.000000000,      0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490187</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates> 0.000000000, 0.000000000,      0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490187</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates> 0.000000000, 0.000000000,      0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490187</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates> 0.000000000, 0.000000000,      0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490187</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates> 0.000000000, 0.000000000,      0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490187</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates> 0.000000000, 0.000000000,      0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490188</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170301173,37.427506685,      4.5851</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490188</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170301173,37.427506685,      4.5851</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490188</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170300213,37.427509313,      1.3822</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490188</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170300213,37.427509313,      1.3822</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490188</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170297138,37.427505174,     -0.0193</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490188</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170297138,37.427505174,     -0.0193</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490188</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170296191,37.427506301,     -4.7232</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490188</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170296191,37.427506301,     -4.7232</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490189</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170288182,37.427504706,     -6.9940</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490189</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170288182,37.427504706,     -6.9940</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490189</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170277649,37.427514761,     -9.1871</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490189</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170277649,37.427514761,     -9.1871</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490189</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170270106,37.427518331,     -9.6600</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490189</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170270106,37.427518331,     -9.6600</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490189</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170270382,37.427517384,     -5.4898</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490189</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170270382,37.427517384,     -5.4898</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490189</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170268533,37.427523783,     -3.5053</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490189</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170268533,37.427523783,     -3.5053</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490190</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170272469,37.427521866,     -2.6509</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490190</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170272469,37.427521866,     -2.6509</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490190</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170274990,37.427514835,     -3.1610</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490190</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170274990,37.427514835,     -3.1610</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490190</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170278903,37.427513380,     -2.7293</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490190</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170278903,37.427513380,     -2.7293</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490190</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170284365,37.427515864,     -2.3663</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490190</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170284365,37.427515864,     -2.3663</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490190</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170286446,37.427512412,     -3.4595</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490190</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170286446,37.427512412,     -3.4595</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490191</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170275573,37.427524272,     -6.7589</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490191</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170275573,37.427524272,     -6.7589</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490191</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170274381,37.427525725,     -8.0623</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490191</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170274381,37.427525725,     -8.0623</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490191</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170271569,37.427520947,     -6.0214</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490191</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170271569,37.427520947,     -6.0214</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490191</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170271077,37.427515925,     -6.4097</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490191</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170271077,37.427515925,     -6.4097</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490191</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170269543,37.427515105,     -2.5185</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490191</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170269543,37.427515105,     -2.5185</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490192</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170259355,37.427512975,      1.5229</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490192</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170259355,37.427512975,      1.5229</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490192</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170259022,37.427512588,      2.4941</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490192</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170259022,37.427512588,      2.4941</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490192</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170257568,37.427513039,      2.0349</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490192</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170257568,37.427513039,      2.0349</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490192</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170254159,37.427506621,      2.5581</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490192</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170254159,37.427506621,      2.5581</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490192</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170262924,37.427506808,      2.7610</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490192</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170262924,37.427506808,      2.7610</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490193</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170267190,37.427506231,      0.5084</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490193</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170267190,37.427506231,      0.5084</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490193</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170264302,37.427506028,     -0.5932</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490193</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170264302,37.427506028,     -0.5932</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490193</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170266870,37.427510098,     -2.2030</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490193</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170266870,37.427510098,     -2.2030</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490193</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170267762,37.427516760,     -4.8034</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490193</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170267762,37.427516760,     -4.8034</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490193</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170269091,37.427523407,     -7.8428</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490193</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170269091,37.427523407,     -7.8428</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490194</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170265319,37.427528187,     -9.3571</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490194</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170265319,37.427528187,     -9.3571</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490194</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170262946,37.427541518,    -12.9395</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490194</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170262946,37.427541518,    -12.9395</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490194</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170259346,37.427542635,    -15.4609</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490194</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170259346,37.427542635,    -15.4609</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490194</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170258036,37.427548707,    -16.7332</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490194</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170258036,37.427548707,    -16.7332</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490194</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170261285,37.427550453,    -14.9044</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490194</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170261285,37.427550453,    -14.9044</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490195</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170264120,37.427544345,    -14.2755</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490195</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170264120,37.427544345,    -14.2755</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490195</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170268661,37.427538586,     -9.0313</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490195</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170268661,37.427538586,     -9.0313</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490195</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170271566,37.427527029,     -4.8004</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490195</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170271566,37.427527029,     -4.8004</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490195</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170268705,37.427518569,     -0.7462</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490195</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170268705,37.427518569,     -0.7462</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490195</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170265617,37.427512178,      2.7525</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490195</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170265617,37.427512178,      2.7525</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490196</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170265219,37.427512002,      3.8535</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490196</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170265219,37.427512002,      3.8535</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490196</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170263502,37.427514347,      5.1038</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490196</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170263502,37.427514347,      5.1038</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490196</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170260087,37.427516522,      3.7474</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490196</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170260087,37.427516522,      3.7474</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490196</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170258917,37.427523611,      1.5140</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490196</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170258917,37.427523611,      1.5140</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490196</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170259549,37.427528664,     -0.0515</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490196</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170259549,37.427528664,     -0.0515</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490197</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170255970,37.427534467,     -1.5716</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490197</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170255970,37.427534467,     -1.5716</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490197</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170257344,37.427529489,     -0.5042</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490197</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170257344,37.427529489,     -0.5042</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490197</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170262022,37.427527777,      0.4497</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490197</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170262022,37.427527777,      0.4497</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490197</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170259800,37.427528099,      2.0644</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490197</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170259800,37.427528099,      2.0644</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490197</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170254857,37.427514361,      3.2424</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490197</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170254857,37.427514361,      3.2424</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490198</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170251978,37.427508625,      5.0388</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rx - GPS sec 490198</name>
+<styleUrl>#fireIcon</styleUrl>
+<description>fastgps</description>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>-122.170251978,37.427508625,      5.0388</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</kml>

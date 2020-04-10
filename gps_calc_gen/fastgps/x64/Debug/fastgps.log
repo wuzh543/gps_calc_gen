@@ -1,0 +1,29 @@
+﻿生成启动时间为 2020/4/9 14:57:56。
+     1>项目“D:\gps_program\allgnss\allgnss\fastgps_improve_last\fastgps\fastgps.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\BaiduYunDownload\visaul_studio\setup\VC\bin\x86_amd64\CL.exe /c /ID:\gps_program\allgnss\allgnss\fastgps\src\libfastgps /Zi /nologo /W3 /WX- /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt ..\src\libfastgps\fastgps.cpp
+         fastgps.cpp
+       Link:
+         D:\BaiduYunDownload\visaul_studio\setup\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\gps_program\allgnss\allgnss\fastgps_improve_last\x64\Debug\fastgps.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\gps_program\allgnss\allgnss\fastgps_improve_last\x64\Debug\fastgps.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\gps_program\allgnss\allgnss\fastgps_improve_last\x64\Debug\fastgps.lib" /MACHINE:X64 x64\Debug\main.obj
+         x64\Debug\acquire.obj
+         x64\Debug\code_table.obj
+         x64\Debug\correlator.obj
+         x64\Debug\datetime.obj
+         x64\Debug\dopp_pos.obj
+         x64\Debug\ephemerides.obj
+         x64\Debug\fastgps.obj
+         x64\Debug\gnss_utils.obj
+         x64\Debug\intrpsp3c.obj
+         x64\Debug\kiss_fft.obj
+         x64\Debug\kiss_fftr.obj
+         x64\Debug\lin_alg.obj
+         x64\Debug\nav.obj
+         x64\Debug\snap_shot.obj
+         x64\Debug\tracking.obj
+         x64\Debug\stdafx.obj
+         fastgps.vcxproj -> D:\gps_program\allgnss\allgnss\fastgps_improve_last\x64\Debug\fastgps.exe
+     1>已完成生成项目“D:\gps_program\allgnss\allgnss\fastgps_improve_last\fastgps\fastgps.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:06.05
