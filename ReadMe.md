@@ -1,14 +1,15 @@
-========================================================================
-    Program Project£ºfastgps software calculate test generate files
-========================================================================
-//
-//   04/09/2020
-//   by wuzh
-//
-/////////////////////////////////////////////////////////////////////////////
-    This version is based on the calculate part(2018) which inputs the tracking.log file
-and outputs the receiver's position.
-    This version has same effect as the 2018.But it can produce three files for the gps_calc.
+
+  generate files for calculate receiver position part
+
+
+ 04/09/2020
+ 
+
+     
+This version is based on the calculate part(2018) which inputs the tracking.log file and outputs the receiver's position.This version has same effect as the 2018.But it can produce three files for the gps_calc.
+ 
+
+    
 
     control_file.txt   The first row has the acquired channel numbers,and then the PRN numbers
                        in every channel.The follow rows are control flags.The first 12 bits are 
@@ -32,23 +33,12 @@ and outputs the receiver's position.
 
 
 
-////////////////////////////////////////////////////////////////////////////
+Files explanation:
 
-fastgps.vcxproj
-    VC++ main project
+    fastgps.vcxproj         : VC++ main project
+    fastgps.vcxproj.filters : VC++ filter flie
+    fastgps.cpp             : main source file
+    StdAfx.h, StdAfx.cpp    :This file is used to generate the file named fastgps.pch ,which is called precompile head (PCH) file
+                             and the precompile file named StdAfx.obj.
 
-fastgps.vcxproj.filters
-    VC++ filter flie
-
-fastgps.cpp
-    main source file
-
-/////////////////////////////////////////////////////////////////////////////
-other standard file:
-
-StdAfx.h, StdAfx.cpp
-    This file is used to generate the file named fastgps.pch ,which is called precompile head (PCH) file
-and the precompile file named StdAfx.obj.
-
-/////////////////////////////////////////////////////////////////////////////
 
